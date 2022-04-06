@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ProductList correctly 1`] = `
+<div>
+  <div>
+    <div
+      className="sc-bczRLJ bbIYkx"
+    />
+    Loading...
+  </div>
+  <div
+    className="sc-iBkjds ikQqWV"
+  />
+</div>
+`;
+
+exports[`should render ProductList correctly with data 1`] = `
+<div>
+  <div>
+    <div
+      className="sc-bczRLJ bbIYkx"
+    />
+    Loading...
+  </div>
+  <div
+    className="sc-iBkjds ikQqWV"
+  />
+</div>
+`;
